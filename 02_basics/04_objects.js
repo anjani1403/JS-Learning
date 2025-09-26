@@ -56,3 +56,36 @@ users[1].email
 
 // console.log(tinderUser.hasOwnProperty('isLoggedIn'));
 
+// De-structure of objects
+
+const course = {
+    coursename: "JS in hindi",
+    price: "999",
+    courseInstructor: "anjani"
+}
+
+// console.log(course[courseInstructor]);
+
+const {courseInstructor : instructor} = course
+
+console.log(instructor);
+
+// const navbar = ({company}) => {
+
+// }
+
+// navbar(company = "anjani")
+
+
+// Concept of JSON-API Introduction
+// {
+//     "name" : "hitesh",
+//     "coursename" : "js in hindi",
+//     "price" : "free"
+// }
+
+[
+    {},
+    {},
+    {}
+]
