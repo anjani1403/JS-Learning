@@ -66,11 +66,11 @@ const course = {
 
 // console.log(course[courseInstructor]);
 
-const {courseInstructor : instructor} = course
+const {courseInstructor : instructor} = course //this is object destructure
 
 console.log(instructor);
 
-// const navbar = ({company}) => {
+// const navbar = ({company}) => {   // syntax of curly braces - de-structuring
 
 // }
 
@@ -89,3 +89,4 @@ console.log(instructor);
     {},
     {}
 ]
+
