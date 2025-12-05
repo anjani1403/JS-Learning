@@ -1,6 +1,7 @@
 # Projects related to Events & Async JS
 
-## project link - [Click here](https://stackblitz.com/edit/dom-project-chaiaurcode?file=index.html)
+## project link
+[Click here](https://stackblitz.com/edit/dom-project-chaiaurcode?file=index.html)
 
 # Project 1 - Unlimited Colors Project Solution Code
 
